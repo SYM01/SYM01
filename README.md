@@ -1,4 +1,3 @@
-在装逼与正经之间反复横跳的渣渣。
-
+To be or not to be, it doesn't matter.
 
 ![Metrics](/github-metrics.svg)
